@@ -1,0 +1,42 @@
+_repo: The-Life--amp--Letters-of-Peter-Ilich-Tchaikovsky_45259
+_version: 0.1.0
+alternative_title: The Life and Letters of Peter Ilich Tchaikovsky
+contributor:
+  translator:
+    agent_name: Newmarch, Rosa
+    aliases:
+    - Newmarch, R. (Rosa)
+    - Jeaffreson, Rosa
+    birthdate: 1857
+    deathdate: 1940
+    gutenberg_agent_id: '43181'
+    url: http://www.gutenberg.org/2009/agents/43181
+covers:
+- cover_type: archival
+  image_path: 45259-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chaikovskii, Modest
+    aliases:
+    - Чайковский, Модест Ильич
+    - Tchaikovsky, Modeste
+    birthdate: 1850
+    deathdate: 1916
+    gutenberg_agent_id: '43180'
+    url: http://www.gutenberg.org/2009/agents/43180
+description: ''
+gutenberg_issued: '2014-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45259'
+  lccn: 05040982
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Composers -- Russia -- Biography'
+- !lcsh 'Tchaikovsky, Peter Ilich, 1840-1893'
+title: The Life & Letters of Peter Ilich Tchaikovsky
+url: http://www.gutenberg.org/ebooks/45259
